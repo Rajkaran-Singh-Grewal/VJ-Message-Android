@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">VJ Messenger Kotlin</string>
+    <string name="chat_conv_name">Name</string>
+    <string name="chat_conv_last_date">12:04:36 am</string>
+    <string name="chat_conv_preview">Last text message sent ...</string>
+    <string name="messages">Messages</string>
+    <string name="chats">Chats</string>
 </resources>
